@@ -1,5 +1,9 @@
 # Project Tasks
 
+The complete task breakdown can be found [here](https://github.com/ami-iit/component_ergocub/tree/main/work-packages).
+
+<br>
+
 | **Task** | **Groups Involved** |
 |----|---------------|
 | T1 Scenario Identification | AMI, iCubTech |
