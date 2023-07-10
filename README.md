@@ -6,7 +6,7 @@ The aim of this project is to use robotics to prevent and reduce the psychophysi
 
 [https://ergocub.eu/](https://ergocub.eu/)
 
-# The Humanoid Sensing & Perception (HSP) Team
+# Team Members
 
 |     | Member |Title | Responsibility | Tag |
 |:---:|-----|-----|--------------|:--:|
