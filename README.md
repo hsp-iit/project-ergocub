@@ -10,12 +10,13 @@ The aim of this project is to use robotics to prevent and reduce the psychophysi
 
 |     | Member |Title | Responsibility | Tag |
 |:---:|-----|-----|--------------|:--:|
-|<img src="team/nat.jpg" alt="Lorenzo Natale" width="100" height="100" /> | Lorenzo Natale | Principle Investigator | | [@lornat75](https://github.com/lornat75) |
-|<img src="team/jon.jpg" alt="Jonathan Woolfrey" width="100" height="100" />| Jon Woolfrey | Postdoc | Team Leader <br> Manipulation | [@woolfrey](https://github.com/woolfrey) |
-|<img src="team/stefano.jpg" alt="Stefano Berti" width="100" height="100" />| Stefano Berti| PhD Student | Human Action Recognition | [@stefanoberti](https://gitub.com/StefanoBerti) |
-|<img src="team/andrea.jpg" alt="Andrea Rosasco" width="100" height="100" />| Andrea Rosasco| PhD Student | Object Detection | [@andrearosasco](http://github.com/andrearosasco) |
-|<img src="https://avatars.githubusercontent.com/u/86918431?v=4" alt="Andrea Rosasco" width="100" height="100" />| Simone Micheletti | Research Fellow | Navigation | [@simonemic](https://github.com/simonemic) |
-| | Vignesh Raghavan | Postdoc | Path Planning | [@vigisushrutha23](https://github.com/vigisushrutha23) |
+|<img src="https://avatars.githubusercontent.com/lornat75" alt="Lorenzo Natale" width="100" height="100" /> | Lorenzo Natale | Principle Investigator | | [@lornat75](https://github.com/lornat75) |
+|<img src="https://avatars.githubusercontent.com/steb6" alt="Stefano Berti" width="100" height="100" /> | Stefano Berti| PhD Student | Human Action Recognition | [@steb6](https://gitub.com/steb6) |
+|<img src="https://avatars.githubusercontent.com/andrearosasco" alt="Andrea Rosasco" width="100" height="100" /> | Andrea Rosasco| PhD Student | Object Detection | [@andrearosasco](https://github.com/andrearosasco) |
+|<img src="https://avatars.githubusercontent.com/u/86918431?v=4" alt="Simone Micheletti" width="100" height="100" />| Simone Micheletti | Team Leader <br> Technician | Navigation | [@simonemic](https://github.com/simonemic) |
+|<img src="https://avatars.githubusercontent.com/vigisushrutha23" alt="Vignesh Raghavan" width="100" height="100" /> | Vignesh Raghavan | Postdoc | Path Planning | [@vigisushrutha23](https://github.com/vigisushrutha23) |
+|<img src="https://avatars.githubusercontent.com/PasMarra" alt="Pasquale Marra" width="100" height="100" /> | Pasquale Marra | PhD Student | Grasping | [@PasMarra](https://gitub.com/PasMarra) |
+|<img src="https://avatars.githubusercontent.com/enyen" alt="Enyen Puang" width="100" height="100" /> | Enyen Puang | PhD Student | Grasping | [@enyen](https://gitub.com/enyen) |
 
 # Code repositories
 
